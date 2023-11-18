@@ -1,6 +1,6 @@
 {
   "enabledLevels":[0,1,2,3,4,5,6,7,8],
-  "newsTitle":"Version 1.58_BETA",
+  "newsTitle":"V1.58",
   "newsDesc":"Welcome to 1.58!\n\nThis version brings new mechanics, new levels\n& bugfixes!\nThe main menu is brand new too!",
-  "snowyEvent":true
+  "snowyEvent":false
 }
