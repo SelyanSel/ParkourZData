@@ -7,7 +7,7 @@
     {
       "name":"Lootbox",
       "rarity":"Common",
-      "previewAsset":"",
+      "previewAsset":"BASE_LOOTBOX",
       "pricetag":"250",
       "inPromotion":false,
       "promotionTag":"",
