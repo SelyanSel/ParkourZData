@@ -5,7 +5,7 @@
   "snowyEvent":false,
   "shop":[
     {
-      "name":"Lobby Decoration",
+      "name":"Lobby Select",
       "rarity":"Common",
       "previewAsset":"BASE_LOOTBOX",
       "pricetag":"150",
