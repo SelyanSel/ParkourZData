@@ -5,13 +5,13 @@
   "snowyEvent":false,
   "shop":[
     {
-      "name":"Lootbox",
+      "name":"Lobby Decoration",
       "rarity":"Common",
       "previewAsset":"BASE_LOOTBOX",
-      "pricetag":"250",
-      "inPromotion":false,
-      "promotionTag":"",
-      "lootPool":["lobbyBox","ChristmasHat","ChristmasExtras"]
+      "pricetag":"150",
+      "inPromotion":true,
+      "promotionTag":"CHRISTMAS EXCLUSIVE",
+      "lootPool":["lobbyBox"]
     },
   ]
 }
