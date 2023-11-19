@@ -3,6 +3,7 @@
   "newsTitle":"V1.58",
   "newsDesc":"Welcome to 1.58!\n\nThis version brings new mechanics, new levels\n& bugfixes!\nThe main menu is brand new too!",
   "snowyEvent":false,
+  "shopEnabled":false,
   "shop":[
     {
       "name":"Lobby Select",
