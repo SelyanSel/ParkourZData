@@ -2,14 +2,23 @@
   "enabledLevels":[0,1,2,3,4,5,6,7,8],
   "newsTitle":"BETA_CHANNEL",
   "newsDesc":"ParkourZBeta",
-  "snowyEvent":false,
-  "shopEnabled":false,
+  "snowyEvent":true,
+  "shopEnabled":true,
   "shop":[
     {
       "name":"Lobby Select",
       "rarity":"Common",
       "previewAsset":"BASE_LOOTBOX",
       "pricetag":"150",
+      "inPromotion":true,
+      "promotionTag":"CHRISTMAS EXCLUSIVE",
+      "lootPool":["lobbyBox"]
+    },
+    {
+      "name":"TestItem",
+      "rarity":"Rare",
+      "previewAsset":"BASE_ITEM",
+      "pricetag":"9999",
       "inPromotion":true,
       "promotionTag":"CHRISTMAS EXCLUSIVE",
       "lootPool":["lobbyBox"]
