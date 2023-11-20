@@ -6,10 +6,28 @@
   "shopEnabled":true,
   "shop":[
     {
-      "name":"Lobby Select",
-      "rarity":"Common",
-      "previewAsset":"BASE_LOOTBOX",
-      "pricetag":"150",
+      "name":"TestItem",
+      "rarity":"Rare",
+      "previewAsset":"BASE_ITEM",
+      "pricetag":"9999",
+      "inPromotion":true,
+      "promotionTag":"CHRISTMAS EXCLUSIVE",
+      "lootPool":["lobbyBox"]
+    },
+    {
+      "name":"TestItem",
+      "rarity":"Rare",
+      "previewAsset":"BASE_ITEM",
+      "pricetag":"9999",
+      "inPromotion":true,
+      "promotionTag":"CHRISTMAS EXCLUSIVE",
+      "lootPool":["lobbyBox"]
+    },
+    {
+      "name":"TestItem",
+      "rarity":"Rare",
+      "previewAsset":"BASE_ITEM",
+      "pricetag":"9999",
       "inPromotion":true,
       "promotionTag":"CHRISTMAS EXCLUSIVE",
       "lootPool":["lobbyBox"]
