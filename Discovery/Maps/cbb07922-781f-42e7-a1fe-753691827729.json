@@ -1,0 +1,59 @@
+{
+    "level": "Parkour Z Test Level",
+    "author": "Parkour Z",
+    "compatibleVersion": "1.59",
+    "components": [
+        {
+            "displayName": "Parkour Z Default Atmosphere Sky",
+            "actorLocation": "X=0.000 Y=0.000 Z=150.000",
+            "actorRotation": "P=0.000000 Y=0.000000 R=-0.000000",
+            "actorScale": "X=1.000 Y=1.000 Z=1.000",
+            "OID": "-999"
+        },
+        {
+            "displayName": "CubeFloor",
+            "actorLocation": "X=0.000 Y=0.000 Z=0.000",
+            "actorRotation": "P=0.000000 Y=0.000000 R=-0.000000",
+            "actorScale": "X=6.000 Y=6.000 Z=1.000",
+            "OID": "1"
+        },
+        {
+            "displayName": "CustomPlayerStart",
+            "actorLocation": "X=-300.000 Y=0.000 Z=160.000",
+            "actorRotation": "P=0.000000 Y=0.000000 R=-0.000000",
+            "actorScale": "X=1.000 Y=1.000 Z=1.000",
+            "OID": "0"
+        },
+        {
+            "displayName": "CubeFloor2",
+            "actorLocation": "X=547.692 Y=0.000 Z=594.016",
+            "actorRotation": "P=90.000000 Y=180.000000 R=180.000000",
+            "actorScale": "X=6.000 Y=6.000 Z=1.000",
+            "OID": "1"
+        },
+        {
+            "displayName": "TextRenderer",
+            "actorLocation": "X=494.752 Y=0.000 Z=565.070",
+            "actorRotation": "P=0.000000 Y=0.000000 R=-0.000000",
+            "actorScale": "X=4.520 Y=4.520 Z=4.520",
+            "OID": "3",
+            "customProperties":
+            {
+                "content": "Welcome to the editor!",
+                "RGBA": "(R=1.000000,G=1.000000,B=1.000000,A=0.000000)"
+            }
+        },
+        {
+            "displayName": "TextRenderer2",
+            "actorLocation": "X=494.752 Y=0.000 Z=437.982",
+            "actorRotation": "P=0.000000 Y=0.000000 R=-0.000000",
+            "actorScale": "X=4.520 Y=4.520 Z=4.520",
+            "OID": "3",
+            "customProperties":
+            {
+                "content": "Version 1.59",
+                "RGBA": "(R=0.991102,G=0.000000,B=1.000000,A=0.000000)"
+            }
+        }
+    ]
+}
