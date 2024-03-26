@@ -5,7 +5,7 @@
       "enabled":true,
       "name":"Play",
       "ui_action_feedback":"KISMETEVENT <MM_W_REF> OpenDiscovery",
-      "background_image":""
+      "background_image":"/Script/Engine.Texture2D'/Game/WarUI/Assets/warfire.warfire'"
     }
   ]
 }
