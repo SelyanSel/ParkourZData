@@ -4,7 +4,7 @@
       "id":"P_SLT_1",
       "enabled":true,
       "name":"Play",
-      "ui_action_feedback":"KISMETEVENT <MM_W_REF> OpenDiscovery",
+      "ui_action_feedback":"ce OpenDiscovery",
       "background_image":"/Script/Engine.Texture2D'/Game/WarUI/Assets/warfire.warfire'"
     }
   ]
