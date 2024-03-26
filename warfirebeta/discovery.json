@@ -1,10 +1,40 @@
 {
+  "statusTab":{
+    "enabled":true,
+    "title":"ALPHA RELEASE 0.0.1",
+    "description?":true,
+    "description":"Welcome to Warfire!",
+    "background_image":"",
+    "feedback?":false,
+    "ui_action_feedback":""
+  },
   "tabs":[
     {
       "id":"P_SLT_1",
       "enabled":true,
       "name":"Play",
       "ui_action_feedback":"ce OpenDiscovery",
+      "background_image":"/Script/Engine.Texture2D'/Game/WarUI/Assets/warfire.warfire'"
+    },
+    {
+      "id":"P_SLT_2",
+      "enabled":true,
+      "name":"Community Maps",
+      "ui_action_feedback":"ce CommunityMapsDiscovery",
+      "background_image":"/Script/Engine.Texture2D'/Game/WarUI/Assets/warfire.warfire'"
+    },
+    {
+      "id":"P_SLT_3",
+      "enabled":true,
+      "name":"Settings",
+      "ui_action_feedback":"ce OpenSettings",
+      "background_image":"/Script/Engine.Texture2D'/Game/WarUI/Assets/warfire.warfire'"
+    },
+    {
+      "id":"P_SLT_4",
+      "enabled":true,
+      "name":"Quit",
+      "ui_action_feedback":"ce QuitGame",
       "background_image":"/Script/Engine.Texture2D'/Game/WarUI/Assets/warfire.warfire'"
     }
   ]
