@@ -1,0 +1,18 @@
+{
+  "discovery":[
+    {
+      "name":"Dev Testmap",
+      "author":"selyansel",
+      "code":"1234-5678-9123",
+      "link":"https://raw.githubusercontent.com/SelyanSel/ParkourZData/refs/heads/main/v2/mapdata/1234-5678-9123.json",
+      "preview":"NoPreview"
+    },
+    {
+      "name":"Villager Outpost",
+      "author":"selyansel",
+      "code":"0000-0000-0000",
+      "link":"https://raw.githubusercontent.com/SelyanSel/ParkourZData/refs/heads/main/v2/mapdata/0000-0000-0000.json",
+      "preview":"NoPreview"
+    }
+  ]
+}
