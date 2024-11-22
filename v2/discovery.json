@@ -8,11 +8,11 @@
       "preview":"NoPreview"
     },
     {
-      "name":"Villager Outpost",
+      "name":"Skibidi",
       "author":"selyansel",
-      "code":"0000-0000-0000",
-      "link":"https://raw.githubusercontent.com/SelyanSel/ParkourZData/refs/heads/main/v2/mapdata/0000-0000-0000.json",
+      "code":"negro",
+      "link":"https://raw.githubusercontent.com/SelyanSel/ParkourZData/refs/heads/main/v2/mapdata/negro.json",
       "preview":"NoPreview"
-    }
+    },
   ]
 }
